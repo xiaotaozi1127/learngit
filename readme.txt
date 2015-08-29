@@ -5,4 +5,6 @@ git track changes of files.
 
 create a new branch is simple & fast.
 
-test no fast forward model
+test no fast forward model 
+
+we will use stash wo save working

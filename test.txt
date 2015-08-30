@@ -2,3 +2,5 @@ hha, this is my test file
 
 this is a stupid mistake.
 hha
+
+ignore isn't working

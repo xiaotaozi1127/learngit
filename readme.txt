@@ -5,4 +5,4 @@ git track changes of files.
 
 create a new branch is simple & fast.
 
-test no fast forward model
+now i checkout to dev, i need some modifiations
